@@ -2,3 +2,4 @@
 Toto je ukázkový repozitář.
 Hello World.
 změna na main.
+.gitignor
